@@ -22,6 +22,7 @@ Games
 - [Invisible Friends Runner](https://www.powerofthenut.xyz/) by d:powerofthenut.nft#1011 t:[powerofthenut](https://twitter.com/powerofthenut)
 - [Invisible Friends Scroller Mobile App](https://testflight.apple.com/join/p1xTBiS2) by d:Reactive#6788 t:[quinton_ch](https://twitter.com/quinton_ch)
 - [Invisible Pac Game](https://www.invisible-pac.xyz/) by d:guidfeh | MSC#0957 t:[guidsenft](https://twitter.com/guidsenft)
+- [Invisible Friends WL Game](https://if-wl.dvlpr.app/) by d:z0ppen | Dev-Collective#2460
 
 Generators
 - [Invisible Wallpapers Github](https://github.com/Canerelpacino/inv-wallpapers) by d:[caner#0251] t:[canerelpacino](https://twitter.com/canerelpacino)
