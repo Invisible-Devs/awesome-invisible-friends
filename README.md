@@ -12,7 +12,7 @@ d:[rndm](https://discord.gg/rndm)
 **ALL DMs ARE SCAMS**
 
 # Awesome Invisible Friends
-A curated list of projects made by the inspiring community @ #dev-collective.
+A curated list of apps, websites, articles, repos and more made by the inspiring community @ #dev-collective.
 
 Fan Club Sites
 - [Invisible Friends Fan Club](https://invisiblefc.com/) by t:[inetdave](https://twitter.com/inetdave) d:inetdave#0937
