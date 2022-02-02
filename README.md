@@ -29,6 +29,7 @@ Generators
 - [Invisible Wallpapers Website](http://inv-wallpapers.herokuapp.com/) by d:[caner#0251] t:[canerelpacino](https://twitter.com/canerelpacino)
 
 Handbooks
+- [IF Apps Development](https://educated-capri-0eb.notion.site/IF-Apps-Development-79bab71d3ab748ec8f4fce76ff55b358) by d:z0ppen | Dev-Collective#2460
 - [IF Dev Handbook](https://cloud-fern-8be.notion.site/IF-Dev-Handbook-60a3ac9acebc41ef9fa48dbb05f0a75e) by d: caner#0251, djimee#9615
 - [IF Dev Wall of Advice](https://cloud-fern-8be.notion.site/IF-Dev-Wall-of-Advice-2710f33b9bda4c0b837f5824e663e2b5) by d: daniel.leal04 | Dev-Collective#5313,  djimee#9615, p.estes#3874, UnavailableCRW#2070, zindabad#1490
 - [Invisible Friends Information Library](https://guidsen.notion.site/guidsen/Invisible-friends-information-library-6566eafb29994031bfe5c9ca77322c0d) by d:guidfeh | MSC#0957 t:[guidsenft](https://twitter.com/guidsenft)
